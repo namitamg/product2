@@ -12,7 +12,7 @@ import SearchPage from './SearchPage'
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 
-import Explore from './components/Explore/Explore'
+import Explore from "./components/Explore"
 
 import Checkout from "./components/Login/Checkout"
 import Pondicherry from "./components/Pondicherry"
