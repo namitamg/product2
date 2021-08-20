@@ -10,12 +10,15 @@ import SearchPage from './SearchPage'
 
 
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import Pondicherry from './components/places/Pondicherry';
+
+
 import Explore from './components/Explore/Explore'
-import Goa from './components/places/Goa';
-import Manali from './components/places/Manali';
-import Kerala from './components/places/Kerala'
+
 import Checkout from "./components/Login/Checkout"
+import Pondicherry from "./components/Pondicherry"
+import Manali from "./components/Manali"
+import Goa from "./components/Goa"
+import Kerala from "./components/Kerala"
 
 
 
