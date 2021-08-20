@@ -1,0 +1,11 @@
+/* .card{
+    padding-left:50px;
+    display: inline-block;
+} */
+
+.card1, .card2{
+    display: inline-block;
+}
+.card2, .card3{
+    display: inline-block;
+}

@@ -1,0 +1,18 @@
+/* .signup {
+    position: relative;
+    top: -294px;
+    left: 1333px;
+
+} */
+
+.button2 {
+    background-color: rgba(149, 15, 38, 0.659);
+    color: white;
+    border-radius: 5px;
+    width:79px;
+    height:40px;
+}
+
+.button2:hover {
+    background-color:grey;
+}

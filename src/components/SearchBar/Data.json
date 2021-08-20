@@ -1,0 +1,30 @@
+[
+    {
+        "place": "Pondicherry",
+        "link" : "https://www.airbnb.co.in/puducherry-india/stays"
+    },
+    {
+        "place": "Goa",
+        "link" : "https://www.airbnb.co.in/goa-india/stays"
+    },
+    {
+        "place": "Manali",
+        "link": "https://www.airbnb.co.in/manali-india/stays"
+    },
+    {
+        "place": "Kerala",
+        "link": "https://www.airbnb.co.in/kerala-india/stays"
+    },
+    {
+        "place": "Mumbai",
+        "link": "https://www.airbnb.co.in/mumbai-india/stays"
+    },
+    {
+        "place": "Ooty",
+        "link": "https://www.airbnb.co.in/ooty-india/stays"
+    },
+    {
+        "place": "Delhi",
+        "link": "https://www.airbnb.co.in/new-delhi-india/stays"
+    }
+]
